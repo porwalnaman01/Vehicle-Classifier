@@ -1,2 +1,2 @@
 # Vehicle-Classifier
-In this we will create a model and use a pretrained model as well to create a classifier to devide vehicles into different categories likes cars,motor cycles, busses etc.
+This repo contains a model as well as a transfer learning based pretrained model to create a classifier to classify vehicles into different categories likes cars,motor cycles, busses etc.
